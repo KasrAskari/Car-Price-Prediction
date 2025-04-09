@@ -8,12 +8,12 @@ A comprehensive exploration of regression-based car price prediction using the `
 
 The `CarPrice_Assignment.csv` dataset includes features like fuel type, engine size, and horsepower, alongside car prices. This project focuses on predicting prices with deep learning and includes:
 
-- 🔹 **Data Preprocessing**: Encoding categorical variables, scaling features, and splitting data (85% train/validation, 15% test).
-- 🔹 **Single-Layer Models**: Tested with neuron counts of 50, 100, 200, 350, and 500.
-- 🔹 **Multi-Layer Models**: Built with 100 neurons and layer counts of 1, 2, 5, and 7.
-- 🔹 **Optimized Deep Model**: A 128-64-32 architecture with Dropout and a custom learning rate.
-- 🔹 **Wide-and-Deep Model**: Combines wide (shallow) and deep paths for enhanced feature learning.
-- 🔹 **Evaluation**: Performance measured with MAE and a custom metric (Accuracy if MAE < mean price, otherwise R²).
+-  **Data Preprocessing**: Encoding categorical variables, scaling features, and splitting data (85% train/validation, 15% test).
+-  **Single-Layer Models**: Tested with neuron counts of 50, 100, 200, 350, and 500.
+-  **Multi-Layer Models**: Built with 100 neurons and layer counts of 1, 2, 5, and 7.
+-  **Optimized Deep Model**: A 128-64-32 architecture with Dropout and a custom learning rate.
+-  **Wide-and-Deep Model**: Combines wide (shallow) and deep paths for enhanced feature learning.
+-  **Evaluation**: Performance measured with MAE and a custom metric (Accuracy if MAE < mean price, otherwise R²).
 
 You can explore the dataset further [here](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction).
 
