@@ -15,7 +15,7 @@ The `CarPrice_Assignment.csv` dataset includes features like fuel type, engine s
 - 🔹 **Wide-and-Deep Model**: Combines wide (shallow) and deep paths for enhanced feature learning.
 - 🔹 **Evaluation**: Performance measured with MAE and a custom metric (Accuracy if MAE < mean price, otherwise R²).
 
-You can explore the dataset further [here](https://www.kaggle.com/datasets/toramky/automobile-dataset).
+You can explore the dataset further [here](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction).
 
 ---
 
